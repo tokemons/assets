@@ -1,0 +1,10 @@
+{
+  "name": "Life Orb",
+  "description": "Boosts all attacks by 30% but costs HP. High risk, high reward.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png",
+  "attributes": [
+    { "trait_type": "Item Type", "value": "Power" },
+    { "trait_type": "Effect", "value": "+30% damage, -10% HP per attack" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}

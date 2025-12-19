@@ -1,0 +1,10 @@
+{
+  "name": "Poke Ball",
+  "description": "A standard Poke Ball for catching wild Tokemons. Has a basic catch rate.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png",
+  "attributes": [
+    { "trait_type": "Ball Type", "value": "Standard" },
+    { "trait_type": "Catch Rate", "value": "1x" },
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}

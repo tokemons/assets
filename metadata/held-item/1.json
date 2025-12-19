@@ -1,0 +1,10 @@
+{
+  "name": "Choice Specs",
+  "description": "Boosts Special Attack but locks the holder into one move. For powerful special attackers.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png",
+  "attributes": [
+    { "trait_type": "Item Type", "value": "Power" },
+    { "trait_type": "Effect", "value": "+50% Sp. Atk, locks move" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}

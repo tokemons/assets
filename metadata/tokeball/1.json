@@ -1,0 +1,10 @@
+{
+  "name": "Great Ball",
+  "description": "An improved Poke Ball with better catch rate. Good for catching tougher Tokemons.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png",
+  "attributes": [
+    { "trait_type": "Ball Type", "value": "Great" },
+    { "trait_type": "Catch Rate", "value": "1.5x" },
+    { "trait_type": "Rarity", "value": "Uncommon" }
+  ]
+}

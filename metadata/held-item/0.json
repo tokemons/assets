@@ -1,0 +1,10 @@
+{
+  "name": "Leftovers",
+  "description": "An item that gradually restores HP during battle. A must-have for defensive Tokemons.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png",
+  "attributes": [
+    { "trait_type": "Item Type", "value": "Recovery" },
+    { "trait_type": "Effect", "value": "Restores 1/16 HP each turn" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}

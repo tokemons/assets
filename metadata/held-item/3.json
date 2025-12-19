@@ -1,0 +1,10 @@
+{
+  "name": "Focus Sash",
+  "description": "Allows the holder to survive any attack with 1 HP when at full health. Single use.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png",
+  "attributes": [
+    { "trait_type": "Item Type", "value": "Survival" },
+    { "trait_type": "Effect", "value": "Survive OHKO with 1 HP" },
+    { "trait_type": "Rarity", "value": "Uncommon" }
+  ]
+}

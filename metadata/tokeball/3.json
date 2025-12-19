@@ -1,0 +1,10 @@
+{
+  "name": "Master Ball",
+  "description": "The ultimate Poke Ball. Catches any Tokemon without fail. Extremely rare.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png",
+  "attributes": [
+    { "trait_type": "Ball Type", "value": "Master" },
+    { "trait_type": "Catch Rate", "value": "100%" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}

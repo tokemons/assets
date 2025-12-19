@@ -1,0 +1,10 @@
+{
+  "name": "Ultra Ball",
+  "description": "A high-performance Poke Ball with excellent catch rate. Perfect for rare Tokemons.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png",
+  "attributes": [
+    { "trait_type": "Ball Type", "value": "Ultra" },
+    { "trait_type": "Catch Rate", "value": "2x" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}
