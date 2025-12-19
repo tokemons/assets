@@ -1,0 +1,13 @@
+{
+  "name": "Mewtwo",
+  "description": "A genetically engineered Pokemon with immense psychic powers. Created from the DNA of Mew through gene splicing.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Psychic" },
+    { "trait_type": "Rarity", "value": "Mythical" },
+    { "trait_type": "Level", "value": "70" },
+    { "trait_type": "HP", "value": "416" },
+    { "trait_type": "Attack", "value": "150" },
+    { "trait_type": "Defense", "value": "90" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gengar",
+  "description": "A Shadow Pokemon that hides in the darkness. It is said to emerge from darkness to steal the lives of those who become lost.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Ghost/Poison" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Level", "value": "25" },
+    { "trait_type": "HP", "value": "200" },
+    { "trait_type": "Attack", "value": "85" },
+    { "trait_type": "Defense", "value": "65" }
+  ]
+}

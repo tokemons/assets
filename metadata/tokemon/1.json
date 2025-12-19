@@ -1,0 +1,13 @@
+{
+  "name": "Charizard",
+  "description": "A powerful Fire Pokemon that breathes intense flames. Its wings can carry it to an altitude of nearly 4,600 feet.",
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Fire/Flying" },
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Level", "value": "50" },
+    { "trait_type": "HP", "value": "360" },
+    { "trait_type": "Attack", "value": "109" },
+    { "trait_type": "Defense", "value": "85" }
+  ]
+}
